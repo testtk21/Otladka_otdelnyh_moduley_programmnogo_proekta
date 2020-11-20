@@ -1,4 +1,4 @@
 #Вывод суммы всех элементов списка
 
-def list_sum(inputList)
-    print('sum of all items is ', sum.(inputList))
+def list_sum(userList):
+    print('Sum of all items is ', sum(userList))
