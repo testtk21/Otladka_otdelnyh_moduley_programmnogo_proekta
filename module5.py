@@ -3,3 +3,4 @@
 def odd_items(inputList):
     #Вставьте свой код здесь
     print('Нечётные элементы списка: ')
+    return print('Нечетные элементы списка: ', [x for x in inputList if x % 2 != 0])
